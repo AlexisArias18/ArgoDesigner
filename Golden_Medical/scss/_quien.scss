@@ -1,0 +1,47 @@
+.quien {
+    /* Frame 4 */
+  
+    /* Auto Layout */
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19.6878px 15.3127px;
+  
+    position: absolute;
+    width: 85.63px;
+    height: 55.38px;
+    left: 1094px;
+    top: 2px;
+  
+    background: #1ABC9C;
+    border-radius: 8.75012px;
+    .quien1 {
+      /* Medicina Estética y Regenerativa */
+  
+      position: absolute;
+      width: 55px;
+      height: 16px;
+      left: 17px;
+      top: 10px;
+      align-items: center;
+  
+      font-family: Cabin;
+      font-style: normal;
+      font-size: 15px;
+      line-height: 16px;
+      /* identical to box height */
+  
+      text-align: center;
+      letter-spacing: 1px;
+  
+      color: #ffffff;
+  
+      /* Inside Auto Layout */
+  
+      flex: none;
+      order: 0;
+      flex-grow: 0;
+      margin: 3.50005px 0px;
+    }
+  }

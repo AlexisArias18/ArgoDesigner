@@ -1,0 +1,48 @@
+.inicio {
+    /* Frame 5 */
+  
+    /* Auto Layout */
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19.6878px 15.3127px;
+  
+    position: absolute;
+    //width: 123.63px;
+    width: 90px;
+    height: 55.38px;
+    left: 1190px;
+    top: 2px;
+  
+    background: #1ABC9C;
+    border-radius: 8.75012px;
+    .inicio1 {
+      /* Medicina Estética y Regenerativa */
+  
+      position: absolute;
+      width: 93px;
+      height: 16px;
+      //left: 15.31px;
+      left: 0px;
+      top: 15px;
+  
+      font-family: Cabin;
+      font-style: normal;
+      font-size: 15px;
+      line-height: 16px;
+      /* identical to box height */
+  
+      text-align: center;
+      letter-spacing: 1px;
+  
+      color: #ffffff;
+  
+      /* Inside Auto Layout */
+  
+      flex: none;
+      order: 0;
+      flex-grow: 0;
+      margin: 3.50005px 0px;
+    }
+  }
